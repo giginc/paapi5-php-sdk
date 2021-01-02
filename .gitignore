@@ -1,0 +1,11 @@
+vendor/
+
+# Git
+!.gitkeep
+.github
+
+# Mac
+.DS_Store
+
+# developer
+.idea/
